@@ -1,2 +1,2 @@
 # bookbot
-Made for Boot.dev project, per instruction.
+Initial practice project, follwoing Boot.dev directions.
